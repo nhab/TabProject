@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "2qBMLXekFfy6SiNtLNrMi/8waKT6mSHnGxj7VNyhV9YoAE6uc2rPSuNj2bxYlxnjtgPfpod4oPJpdZe4EBYopA==",
+  "success": true,
+  "projectFilePath": "C:\\root\\prjs\\github\\other\\mine\\FileProjects\\FileProjects\\FileProjects.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\n\\.nuget\\packages\\communitytoolkit.mvvm\\8.2.0\\communitytoolkit.mvvm.8.2.0.nupkg.sha512"
+  ],
+  "logs": []
+}
